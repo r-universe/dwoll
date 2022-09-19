@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DVHmetrics",
+    "oncran": true
+  }
+]

@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DVHmetrics"]
+	path = DVHmetrics
+	url = https://github.com/dwoll/dvhmetrics
+	shallow = true
+	registered = true
