@@ -2,5 +2,9 @@
   {
     "package": "DVHmetrics",
     "oncran": true
+  },
+  {
+    "package": "MeshAgreement",
+    "oncran": true
   }
 ]
