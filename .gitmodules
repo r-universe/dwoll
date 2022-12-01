@@ -8,8 +8,3 @@
 	url = https://github.com/dwoll/dvhmetrics
 	shallow = true
 	registered = true
-[submodule "MeshAgreement"]
-	path = MeshAgreement
-	url = https://github.com/dwoll/meshagreement
-	shallow = true
-	registered = true
