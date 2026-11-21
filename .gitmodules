@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dwoll/dwoll.r-universe.dev
 	branch = HEAD
-[submodule "DVHmetrics"]
-	path = DVHmetrics
-	url = https://github.com/dwoll/dvhmetrics
 [submodule "SurfaceMesh"]
 	path = SurfaceMesh
-	url = https://github.com/dwoll/surfacemesh
+	url = https://github.com/dwoll/SurfaceMesh
